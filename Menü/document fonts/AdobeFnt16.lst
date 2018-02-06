@@ -3,6 +3,14 @@
 
 %BeginFont
 Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:\.DS_Store
+FileLength:6148
+FileModTime:1517851760
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
 FontType:TrueType
 FontName:Fixation-Regular
 FamilyName:Fixation
@@ -21,27 +29,6 @@ FileModTime:1514562218
 NameArray:0,Mac,18,Fixation Regular
 NameArray:0,Mac,4,Fixation Regular
 NameArray:0,Win,1,Fixation
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:TrueType
-FontName:I-pixel-u
-FamilyName:I pixel u
-StyleName:Regular
-MenuName:I pixel u
-StyleBits:0
-WeightClass:400
-WidthClass:5
-AngleClass:0
-FullName:I pixel u Regular
-WritingScript:Roman
-OutlineFileName:\I-pixel-u.ttf
-DataFormat:sfntData
-FileLength:17844
-FileModTime:1430841826
-NameArray:0,Mac,4,I pixel u Regular
-NameArray:0,Win,1,I pixel u
 %EndFont
 
 %BeginFont
@@ -84,26 +71,5 @@ FileLength:21876
 FileModTime:1493660874
 NameArray:0,Mac,4,Modern DOS 8x8
 NameArray:0,Win,1,Modern DOS 8x8
-%EndFont
-
-%BeginFont
-Handler:DirectoryHandler
-FontType:TrueType
-FontName:PressStart2P
-FamilyName:Press Start 2P
-StyleName:Regular
-MenuName:Press Start 2P
-StyleBits:0
-WeightClass:500
-WidthClass:5
-AngleClass:0
-FullName:Press Start 2P
-WritingScript:Roman
-OutlineFileName:\PressStart2P.ttf
-DataFormat:sfntData
-FileLength:82480
-FileModTime:1351630028
-NameArray:0,Mac,4,Press Start 2P
-NameArray:0,Win,1,Press Start 2P
 %EndFont
 
